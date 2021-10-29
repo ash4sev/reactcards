@@ -10,6 +10,12 @@ function Home() {
             <Link to="/regplaylist">
                 <button> crie uma playlist </button> 
             </Link>
+
+            <h2>Playlists</h2>
+            <Link to="/playlistmusic">
+                <button> eletronica </button> 
+            </Link>
+
         </div>
     )
 }
